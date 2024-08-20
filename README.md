@@ -6,5 +6,5 @@
   - https://github.com/DC673/EveryCook</b></i>
   - <b>Java Chatroom Project</b>
   - https://github.com/DC673/DC673-IT114-005
-- <b>Java Chatroom</b>
-  - https://github.com/DC673/DC673-IT114-005/tree/main
+  - <b>Enhanced Pong</b>
+  - https://github.com/DC673/Enhanced-Pong-Python
