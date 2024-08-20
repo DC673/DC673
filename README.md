@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan! <br/><a href="https://github.com/joshmadakor1">IT/Programmer/Network Security</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, </h1>
+<h1>Hi, I'm Dan! <br/><a href="https://github.com/joshmadakor1">IT/Programmer/Network Security</a>, <a href="https://www.linkedin.com/in/daniel-c-643395310/>NJIT Graduate</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
