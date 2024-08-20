@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java Chatroom Project</b>
-  - https://github.com/DC673/DC673-IT114-005
 - <b>Full Stack Web App EveryCook(React, NodeJS, RabbitMQ, PostgreSQL)</b>
   - https://github.com/DC673/EveryCook</b></i>
+  - <b>Java Chatroom Project</b>
+  - https://github.com/DC673/DC673-IT114-005
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
