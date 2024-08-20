@@ -4,7 +4,7 @@
 
 - <b>Full Stack Web App EveryCook(React, NodeJS, RabbitMQ, PostgreSQL)</b>
   - https://github.com/DC673/EveryCook</b></i>
-  - <b>Java Chatroom Project</b>
+- <b>Java Chatroom Project</b>
   - https://github.com/DC673/DC673-IT114-005
-  - <b>Enhanced Pong</b>
+- <b>Enhanced Pong with Python</b>
   - https://github.com/DC673/Enhanced-Pong-Python
