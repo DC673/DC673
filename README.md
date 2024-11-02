@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan! <br/><a href="https://www.linkedin.com/in/daniel-c-643395310/">IT/Programmer/Network Security</a>, </h1>
+<h1>Hi, I'm Dan! <br/><a href="https://www.linkedin.com/in/daniel-c-643395310/">Network Security Specialist/Programming Minor</a>, </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
